@@ -2,8 +2,6 @@
 Write a program that simulates car racing, as shown in Figure 15.34a. The car moves from left to right. When it hits the right end, it   restarts from the left and continues the same process. You can use a timer to control animation. Redraw the car with a new base coordinates (x, y), as shown in Figure 15.34b. Also let the user pause/resume the animation with a button press/release and increase/decrease the car speed by pressing the UP and DOWN arrow keys.
 
 ## Example Output
-This image will display as your example output. Name the image README.jpg in your project folder.
-
 ![Sample Output](README.png)
 
 ## Analysis Steps
@@ -12,23 +10,10 @@ Create a car with shapes similar to figure 15.34. Then have the car move across 
 ### Design
 Had to create a second class for the car.
 
-```Give examples```
-
 ### Testing
-A step by step series of examples that you developed to properly test the 
-program.
-
-Say what the step will be
-```Give the example```
-
-And repeat
-```until finished```
-
-End with an example of getting some data out of the system or using it for 
-a little demo
 
 ## Notes
-Explain any issues or testing instructions.
+The car seems to jump when it goes from fully stopped to moving again.
 
 ## Do not change content below this line
 ## Adapted from a README Built With
