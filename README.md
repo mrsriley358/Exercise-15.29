@@ -4,7 +4,7 @@ Write a program that simulates car racing, as shown in Figure 15.34a. The car mo
 ## Example Output
 This image will display as your example output. Name the image README.jpg in your project folder.
 
-![Sample Output](README.jpg)
+![Sample Output](README.png)
 
 ## Analysis Steps
 Create a car with shapes similar to figure 15.34. Then have the car move across the pane while being able to control the speed.
