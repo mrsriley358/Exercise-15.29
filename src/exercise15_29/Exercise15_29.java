@@ -1,3 +1,6 @@
+// Excellent use of comments. If you use the /** comment header, your comments will 
+// become part of the javadoc for the application. We will look more at this after break
+
 /*
  *  Program:    Exercise 15.29
  *  Date:       2/19/18
